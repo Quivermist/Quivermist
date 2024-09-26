@@ -21,12 +21,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
-### 💻 Random Dev Quote:
-_"A picture may be worth a thousand words, a formula is worth a thousand pictures."_
-— Edsger W. Dijkstra
 
 ### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
