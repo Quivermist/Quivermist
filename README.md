@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Hazar!
 
-<!--
-**Quivermist/Quivermist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with experience in building web applications and creating innovative solutions. I enjoy working with various technologies and always strive to improve my skills. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Hazar Blog](#) and several personal projects.
+- 🌱 I’m currently learning **[specific technology you're learning]**.
+- 👯 I’m looking to collaborate on open-source projects and interesting web development initiatives.
+- 💬 Ask me about web development, JavaScript, CSS, or anything tech-related!
+- ⚡ Fun fact: I love experimenting with new web technologies and playing around with creative designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+- HTML, CSS, JavaScript
+- React, Node.js
+- Git, GitHub
+- [Other relevant tools]
+
+### 📫 How to reach me:
+- [Twitter](#)
+- [LinkedIn](#)
+- [Personal Blog](#)
+
+Thanks for stopping by! 😊
