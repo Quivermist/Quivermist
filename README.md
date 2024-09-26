@@ -2,9 +2,7 @@
 
 ### 🚀 About Me:
 - 🔧 Node.js & Next.js Enthusiast
-- 🐼 Data Juggler with Pandas and Numpy
 - 🌐 Web Magician with HTML, CSS, JS
-- 🎮 Sports Fanatic & Tech Buff
 - 🔬 Science and Math Geek on the Loose!
 
 ### 🔗 Socials:
