@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Hazar!
 
-### 🚀 About Me:
-- 🔧 Node.js & Next.js Enthusiast
-- 🌐 Web Magician with HTML, CSS, JS
-- 🔬 Science and Math Geek on the Loose!
-
 ### 🔗 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)]([your-instagram-link](https://www.instagram.com/hazar067/))
 
@@ -16,9 +11,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-
-### 👀 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
