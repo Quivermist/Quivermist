@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Hazar!
 
 ### 🔗 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)]([your-instagram-link](https://www.instagram.com/hazar067/))
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hazar067/)
+
 
 
 ### 🛠️ Tech Stack:
